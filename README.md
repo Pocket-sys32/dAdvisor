@@ -45,7 +45,7 @@ Official, up-to-date requirements are in the [UC Davis General Catalog](https://
 
 - **React 19** + **TypeScript** + **Vite**
 - **Tailwind CSS** (v4) for styling
-- No backend; all state is in the browser
+- No backend; all state is in the browser for the moment 
 
 ## Disclaimer
 
