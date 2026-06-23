@@ -1,5 +1,9 @@
 # dAdvisor — UC Davis Major Transfer Planner
 
+<img width="1037" height="592" alt="image" src="https://github.com/user-attachments/assets/01498772-da7b-4989-a086-c93f70e53064" />
+
+
+
 A web app to help **UC Davis undergraduates** plan a major change: see requirements for a target major, mark completed courses, plan quarters, and estimate how long it will take to graduate in the new major.
 **Full Overview** : https://devpost.com/software/dadvisor?_gl=1*1l6t9w4*_gcl_au*ODE4Mzg5OTk4LjE3NzA3MTI5Nzc.*_ga*MTg1Mjk1NTI1OC4xNzcwNzEyOTc3*_ga_0YHJK3Y10M*czE3NzA3MTI5NzYkbzEkZzEkdDE3NzA3MTM0MDckajQ2JGwwJGgw
 
